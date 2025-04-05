@@ -28,6 +28,7 @@ In the near future, we hope to incorporate additional tools including: optogenet
 ## Joining McGraw Lab 
 If you are interested in joining the lab, please see our [recruitment](joinus.md) page. 
 
+## 
 We are a dynamic research group at [LMU physics](https://www.physik.lmu.de/en/index.html) and at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl/). 
 
 We have two overarching goals: first, 
