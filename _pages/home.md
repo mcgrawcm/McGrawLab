@@ -24,14 +24,14 @@ Our main areas of research are\:
 ## Technologies and methods.
 The McGraw lab has both wet and dry components but is primarily a wet lab. We use behavioral testing, electrophysiology, calcium fluorescence (high-throughput; inter-regional whole brain; single neuron and ensemble dynamics), genetic engineering (CRISPR/Cas9; knock-ins, knock-outs), and computational  tools (MATLAB/R/Python) when appropriate. 
 
-In the near future, we hope to incorporate additional tools including: optogenetics, viral labeling, proteomics, scRNA sequencing, high-throughput morphological measurements, as well as state-of-the-art fast volumetric imaging of whole-brain calcium fluorescence in zebrafish using a single objective lightsheet microscope.
+In the near future, we hope to incorporate additional tools including\: optogenetics, viral labeling, proteomics, scRNA sequencing, high-throughput morphological measurements, as well as state-of-the-art fast volumetric imaging of whole-brain calcium fluorescence in zebrafish using a single objective lightsheet microscope.
 
 ## Joining McGraw Lab. 
 If you are interested in joining the lab, please see our [recruitment](/_pages/pictures.md) page. 
 
 We are a dynamic research group at [LMU physics](https://www.physik.lmu.de/en/index.html) and at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl/). 
 
-We have two overarching goals: first,
+We have two overarching goals\: first,
  **to understand quantum materials**, including strange metals, high-temperature superconductors, and quantum critical electron matter. Second, **to make novel and useful materials** that never existed before, like possible room-temperature superconductors. 
 To achieve these goals, we develop new quantum sensing and quantum imaging instrumentation to obtain the key quantum mechanical degrees of freedom. We want to build the perfect instruments to answer the scientific questions we deem most important. 
 
