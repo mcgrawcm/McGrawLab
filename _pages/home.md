@@ -5,6 +5,7 @@ excerpt: "Allan Lab at Leiden University &rarr; LMU."
 sitemap: false
 permalink: /
 ---
+
 ## Welcome to McGraw Lab @ Northwestern University 
 
 Our mission is to understand the molecular mechanisms of refractory seizure disorders and to identify novel therapies using cross-species approaches including human genetics and animal models (zebrafish, mouse).  We are particularly interested in the intersection between genetics and pharmacology -- understanding how genetic variants influence seizures and treatment response, and using genetics to identify new targets for anti-seizure drug development. 
