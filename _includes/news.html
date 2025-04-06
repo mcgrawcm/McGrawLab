@@ -2,6 +2,7 @@
 <div class="well">
 <h4>News</h4>
 <!-- News excerpt for Home page-->
+<!-- [x] working -->
 
 {% for article in site.data.news limit:9 %}
 <em>{{ article.date }}</em>{{ article.headline | markdownify | strip}}
