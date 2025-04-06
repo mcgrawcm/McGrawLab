@@ -77,4 +77,4 @@ The McGraw lab has both wet and dry components but is primarily a wet lab. We us
 In the near future, we hope to incorporate additional tools including\: optogenetics, viral labeling, proteomics, scRNA sequencing, high-throughput morphological measurements, as well as state-of-the-art fast volumetric imaging of whole-brain calcium fluorescence in zebrafish using a single objective lightsheet microscope.
 
 ## Joining McGraw Lab. 
-If you are interested in joining the lab, please see our [recruitment]({{ site.baseurl }}{%_pages/pictures.md %}) page. 
+If you are interested in joining the lab, please see our [recruitment]({{ site.baseurl }}{% link _pages/pictures.md %}) page. 
