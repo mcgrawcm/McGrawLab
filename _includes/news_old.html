@@ -1,10 +1,9 @@
 
 <div class="well">
 <h4>News</h4>
-<!-- News excerpt for Home page-->
 
 {% for article in site.data.news limit:9 %}
-<em>{{ article.date }}</em>{{ article.headline | markdownify | strip}}
+<p>{{ article.date }}<br>{{ article.headline | markdownify}}</p>
 {% endfor %}
 
 <h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>
