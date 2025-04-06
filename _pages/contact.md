@@ -1,6 +1,6 @@
 ---
 title: "McGraw Lab - Contact"
-layout: gridlay
+layout: default
 excerpt: "McGraw Lab - Contact"
 sitemap: false
 permalink: /contact/
