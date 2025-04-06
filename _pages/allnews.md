@@ -7,7 +7,9 @@ permalink: /allnews.html
 ---
 
 # News
+<!--  News page with all news articles-->
+<!-- [ ] working -->
 
 {% for article in site.data.news %}
-<em>{{ article.date }}</em> {{ article.headline | strip}}
+_{{ article.date }}_. &nbsp; {{ article.headline | strip}}
 {% endfor %}
