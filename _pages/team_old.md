@@ -3,7 +3,6 @@ title: "McGraw Lab - Team"
 layout: gridlay
 excerpt: "McGraw Lab: Team members"
 sitemap: false
-permalink: /team/
 ---
 
 # Group Members
