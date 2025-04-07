@@ -1,4 +1,7 @@
-  - name: Guoqi Zhang MD
+# database of alumni members 
+# n.b. formatting requires a leading '-' w/o whitespace at the beginning of each block
+
+- name: Guoqi Zhang MD
   photo: logo_McGrawLab.png
   duration: Research Tech, 2020 - 2025
   info: Now in Xin Tang Lab (BCH)
@@ -21,7 +24,7 @@
   number_educ: 1
   education1: 
 
-  - name: Lauren Licursi BA
+- name: Lauren Licursi BA
   photo: logo_McGrawLab.png
   duration: Research Tech, 2023 - 2024
   info: Went to industry, Tevard Biosciences, Boston
@@ -37,7 +40,7 @@
   number_educ: 1
   education1: 
 
-  - name: Nivedita Jha MBBS
+- name: Nivedita Jha MBBS
   photo: logo_McGrawLab.png
   duration: Clinical research Fellow (MGH), 2021-2022
   info: Went to Neurology Residency 2022
