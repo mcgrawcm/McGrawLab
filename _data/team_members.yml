@@ -15,7 +15,7 @@
   
 - name: "This could be you !"
   photo: rock.jpg
-  info: See [openings] ({{ site.baseurl }}{% link _pages/recruitment.md %}) for more info
+  info: See [openings]({{ site.baseurl }}{% link _pages/recruitment.md %}) for more info
   email: b
   number_educ: 0
   education1:
