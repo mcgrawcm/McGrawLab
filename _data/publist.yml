@@ -16,7 +16,7 @@
 
 - title: "Adult neural function requires MeCP2"
   image: pub_AKO_2012.png
-  description: We used conditional Cre/LoxP to knock-out the neurodevelopmental gene, MeCP2, in adult animals, and demonstrates that AKO animals develop all of the symptoms of germline KO animals, suggesting that mature nervous system function depends on Mecp2 function.
+  description: We used conditional Cre/LoxP to knock-out the neurodevelopmental gene, MeCP2, in adult animals, and demonstrated that AKO animals develop all of the symptoms of germline KO animals, suggesting that mature nervous system function depends on Mecp2 function.
   authors: McGraw CM, Samaco RC, and Zoghbi HY
   link:
     url: https://www.science.org/doi/full/10.1126/science.1206593
@@ -25,7 +25,7 @@
 
 - title: "Counter-balancing X-linked Mecp2hypofunction by hyperfunction ameliorates disease features in a model of Rett syndrome: implications for genetic therapies"
   image: pub_NT_biorxiv2024.png
-  description: using genetic techniques, we find that “counter-balancing” Mecp2-null cells in female Mecp2null/+ mice by a complementary population of cells harboring an X-linked transgene associated with 3X normal levels of MECP2 leads to normalization of multiple whole animal phenotypic outcomes without noticeable toxicity.  
+  description: Using genetic techniques, we find that “counter-balancing” Mecp2-null cells in female Mecp2null/+ mice by a complementary population of cells harboring an X-linked transgene associated with 3X normal levels of MECP2 leads to normalization of multiple whole animal phenotypic outcomes without noticeable toxicity.  
   authors: McGraw CM, Soriano S, Shuang H, Connolly DR, Chahrour A, Wu Z, Liang, AJ, Sun Y, Tang J, Samaco RC. 
   link:
     url: https://doi.org/10.1101/2024.01.18.576265
@@ -34,7 +34,8 @@
 
 - title: "Automated quantification of periodic discharges in human electroencephalogram"
   image: 
-  description: 
+  description:
+  authors:
   link:
     url: 
     display: 
@@ -42,7 +43,8 @@
 
 - title: "Machine learning enables high-throughput, low-replicate screening for novel anti-seizure targets and compounds using combined movement and calcium fluorescence in larval zebrafish"
   image: 
-  description: 
+  description:
+  authors:
   link:
     url: 
     display: 
@@ -50,7 +52,18 @@
 
 - title: "Zebrafish models of candidate human epilepsy-associated genes provide evidence of hyperexcitability"
   image: 
-  description: 
+  description:
+  authors:
+  link:
+    url: https://www.cell.com/iscience/fulltext/S2589-0042(24)01397-X
+    display: iScience, Volume 27, Issue 7, 110172
+  highlight: 1
+  news1:   <a style="color:#FF0000" href="https://journals.sagepub.com/doi/10.1177/15357597241301510">Featured as 'Research Highlight' in Epilepsy Currents</a>
+
+- title: "Mosaic and non-mosaic protocadherin 19 mutation leads to neuronal hyperexcitability in zebrafish"
+  image: 
+  description:
+  authors: Robens BK, Yang X, McGraw CM, Turner LH, Robens C, Thyme S, Rotenberg A, Poduri A
   link:
     url: https://www.cell.com/iscience/fulltext/S2589-0042(24)01397-X
     display: iScience, Volume 27, Issue 7, 110172
