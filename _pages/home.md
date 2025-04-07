@@ -78,3 +78,6 @@ In the near future, we hope to incorporate additional tools including: optogenet
 
 ## Joining McGraw Lab. 
 If you are interested in joining the lab, please see our [recruitment]({{ site.baseurl }}{% link _pages/recruitment.md %}) page. 
+
+## Funding
+We are  grateful for our funding from: [CURE Epilepsy](https://www.cureepilepsy.org/), [National Institute of Neurological Disease and Stroke](https://www.ninds.nih.gov/), [NIH / NINDS CounterACT](https://www.ninds.nih.gov/current-research/trans-agency-activities/counteract-program), [F.M. Kirby Neurobiology Center](https://kirbyneuro.org/), and the [Loulou Foundation / Orphan Disease Center](https://www.louloufoundation.org/). 
