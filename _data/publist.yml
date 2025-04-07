@@ -33,7 +33,7 @@
   highlight: 1
 
 - title: "Zebrafish models of candidate human epilepsy-associated genes provide evidence of hyperexcitability"
-  image: 
+  image: logo_McGrawLab.png
   description:
   authors:
   link:
@@ -43,7 +43,7 @@
   news1:   <a style="color:#FF0000" href="https://journals.sagepub.com/doi/10.1177/15357597241301510">Featured as 'Research Highlight' in Epilepsy Currents</a>
 
 - title: "Mosaic and non-mosaic protocadherin 19 mutation leads to neuronal hyperexcitability in zebrafish"
-  image: 
+  image: logo_McGrawLab.png
   description:
   authors: Robens BK, Yang X, McGraw CM, Turner LH, Robens C, Thyme S, Rotenberg A, Poduri A
   link:
@@ -62,7 +62,7 @@
   highlight: 1
 
 - title: "Automated quantification of periodic discharges in human electroencephalogram"
-  image: 
+  image: logo_McGrawLab.png
   description:
   authors:
   link:
@@ -71,7 +71,7 @@
   highlight: 1
 
 - title: "Enhanced proconvulsant sensitivity, not spontaneous rapid swimming activity, is a robust correlate of scn1lab loss-of-function in stable mutant and F0 crispant hypopigmented zebrafish expressing GCaMP6s"
-  image: 
+  image: logo_McGrawLab.png
   description: We find that genetic background or other factors seem to suppress the rapid swimming phenotype of scn1lab-s552 fish, and yet these stable KO as well as another line of acute KO scn1lab crispants still show enhanced sensitivity to proconvulsant. These findings may suggest 
   authors: CM McGraw, CM Baker, A Poduri
   link:
