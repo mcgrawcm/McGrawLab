@@ -55,7 +55,7 @@
 - title: "Adult neural function requires MeCP2"
   image: pub_AKO_2012.png
   description: We used conditional Cre/LoxP to knock-out the neurodevelopmental gene, MeCP2, in adult animals, and demonstrated that AKO animals develop all of the symptoms of germline KO animals, suggesting that mature nervous system function depends on Mecp2 function.
-  authors: **McGraw CM**, Samaco RC, and Zoghbi HY
+  authors: "**McGraw CM**, Samaco RC, and Zoghbi HY"
   link:
     url: https://www.science.org/doi/full/10.1126/science.1206593
     display: "Science. 2011 Jul 8;333(6039):186.  PMID: 21636743"
@@ -73,7 +73,7 @@
 - title: "Enhanced proconvulsant sensitivity, not spontaneous rapid swimming activity, is a robust correlate of scn1lab loss-of-function in stable mutant and F0 crispant hypopigmented zebrafish expressing GCaMP6s"
   image: 
   description: We find that genetic background or other factors seem to suppress the rapid swimming phenotype of scn1lab-s552 fish, and yet these stable KO as well as another line of acute KO scn1lab crispants still show enhanced sensitivity to proconvulsant. These findings may suggest 
-  authors: **CM McGraw**, CM Baker, A Poduri
+  authors: CM McGraw, CM Baker, A Poduri
   link:
     url: 
     display: 
