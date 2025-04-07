@@ -1,35 +1,24 @@
-- name: Chris McGraw MD, PhD
-  photo: mcgraw_2018.jpg
-  info: Assistant Professor, started Sept 2024
+- name: Marisha Dhakal
+  photo: Jiasen.png
+  info: Data Analyst Associate, started Dec 2024
   email: b
-  number_educ: 7
-  education1: BA, Rice University 2004
-  education2: PhD, Baylor College of Medicine, Developmental Biology (Huda Zoghbi) 2012
-  education3: MD, Baylor College of Medicine 2014
-  education4: Residency, Adult Neurology, UCSF 2014-2018
-  education5: Fellowship, Epilepsy, Mass General Hospital 2018-2020
-  education6: Post-doc, Epilepsy Genetics, Boston Childrens Hospital (Ann Poduri) 2020-2024
-  education7: Instructor, Harvard Medical School 2020-2024
-
-- name: Jiasen Niu
-  photo: Jiasen.png
-  info: Leader Leiden Branch, started Oct 2020
-  email: niu@physics.leidenuniv.nl
   number_educ: 2
-  education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
-  education2: BSc Jilin University
+  education1: MA 
+  education2: BSc 
 
-- name: Jiasen Niu
+- name: Yimeng Zhao
   photo: Jiasen.png
-  info: Leader Leiden Branch, started Oct 2020
-  email: niu@physics.leidenuniv.nl
-  number_educ: 2
-  education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
-  education2: BSc Jilin University
-
+  info: Research Tech 
+  email: b
+  number_educ: 1
+  education1: BA UIC
+  
 - name: "This could be you !"
   photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+  info: See [openings] <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+
+  ({{ site.baseurl }}{% link _pages/pictures.md %})
+  
   email: milan.allan@gmail.com
   number_educ: 0
   education1:
