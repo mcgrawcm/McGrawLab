@@ -55,7 +55,7 @@
 - title: "Adult neural function requires MeCP2"
   image: pub_AKO_2012.png
   description: We used conditional Cre/LoxP to knock-out the neurodevelopmental gene, MeCP2, in adult animals, and demonstrated that AKO animals develop all of the symptoms of germline KO animals, suggesting that mature nervous system function depends on Mecp2 function.
-  authors: "**McGraw CM**, Samaco RC, and Zoghbi HY"
+  authors: <strong>McGraw CM</strong>, Samaco RC, and Zoghbi HY"
   link:
     url: https://www.science.org/doi/full/10.1126/science.1206593
     display: "Science. 2011 Jul 8;333(6039):186.  PMID: 21636743"

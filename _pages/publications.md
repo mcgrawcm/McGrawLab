@@ -5,8 +5,6 @@ excerpt: "McGraw Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
-
-
 # Publications
 
 ## Group highlights
@@ -28,7 +26,7 @@ permalink: /publications/
   <pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="50%" style="float: left" />
   <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors | markdownify | raw }} </em></p>
+  <p><em>{{ publi.authors }} </em></p>
   <!-- drop <p></p>, process input as markdown -->
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
@@ -77,8 +75,8 @@ Nat Genet. 2023 Sep;55(9):1471-1482. doi: 10.1038/s41588-023-01485-w.Epub 2023 A
 18.	Jimenez AD, Gopaul M, Asbell H, Aydemir S, Basha MM, Batra A,… **McGraw CM**, …Hanin A. Comparative analysis of patients with new onset refractory status epilepticus preceded by fever (febrile infection-related epilepsy syndrome) versus without prior fever: An interim analysis. Epilepsia. 2024; 65: e87–e96. https://doi.org/10.1111/epi.17988
 19.	Hanin A, Jimenez AD, Gopaul M, Asbell H, Aydemir S, Basha MM, … **McGraw CM**, … Hirsch L. Trends in management of patients with new-onset refractory status epilepticus (NORSE) from 2016 to 2023: An interim analysis. Epilepsia. 2024; 65: e148–e155. https://doi.org/10.1111/epi.18014
 20.	**CM McGraw**, S Rao, S Manjunath, J Jing, MB Westover. Automated quantification of periodic discharges in human electroencephalogram. Biomed. Phys. Eng. Express 10 065003DOI 10.1088/2057-1976/ad6c53
-21.	Prince S, Bonkowski E, McGraw C, et al. A roadmap to cure CHD2-related disorders. Therapeutic Advances in Rare Disease. 2024;5. doi:10.1177/26330040241283749
-22.	M Fernandes, A Cardall, LMVR Moura, C McGraw, SF Zafar SF, MB Westover. Extracting seizure control metrics from clinic notes of patients with epilepsy: A natural language processing approach. Epilepsy Research, 2024. https://doi.org/10.1016/j.eplepsyres.2024.107451
+21.	Prince S, Bonkowski E, **McGraw C**, et al. A roadmap to cure CHD2-related disorders. Therapeutic Advances in Rare Disease. 2024;5. doi:10.1177/26330040241283749
+22.	M Fernandes, A Cardall, LMVR Moura, **C McGraw**, SF Zafar SF, MB Westover. Extracting seizure control metrics from clinic notes of patients with epilepsy: A natural language processing approach. Epilepsy Research, 2024. https://doi.org/10.1016/j.eplepsyres.2024.107451
 23.	**CM McGraw**, CM Baker, A Poduri. Enhanced proconvulsant sensitivity, not spontaneous rapid swimming activity, is a robust correlate of scn1lab loss-of-function in stable mutant and F0 crispant hypopigmented zebrafish expressing GCaMP6s. bioRxiv, 2025 https://doi.org/10.1101/2025.01.15.633275
 24.	**CM McGraw**, A Poduri. Machine learning enables high-throughput, low-replicate screening for novel anti-seizure targets and compounds using combined movement and calcium fluorescence in larval zebrafish. European Journal of Pharmacology, 2025. https://doi.org/10.1016/j.ejphar.2025.177327
 
@@ -90,5 +88,5 @@ Nat Genet. 2023 Sep;55(9):1471-1482. doi: 10.1038/s41588-023-01485-w.Epub 2023 A
 ## Non-peer reviewed scholarship in print or other media: 
 ### Reviews, chapters, and editorials
 1.	Chapter "Electroencephalography" in Pocket Neurology, Third Edition.  Contributor.
-2.	"Zebrafish as a model of genetic epilepsy and its co-occurring neurobehavioral / neuropsychiatric features" in the Encyclopedia of Behavioural Neuroscience (EMSS), 2nd edition. Barbara K. Robens, Christopher M. McGraw, Annapurna Poduri
+2.	"Zebrafish as a model of genetic epilepsy and its co-occurring neurobehavioral / neuropsychiatric features" in the Encyclopedia of Behavioural Neuroscience (EMSS), 2nd edition. Barbara K. Robens, **Christopher M. McGraw**, Annapurna Poduri
 
