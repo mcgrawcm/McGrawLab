@@ -15,11 +15,10 @@ permalink: /team/
 <div class="row">
 
 <div class="col-sm-12 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
-
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
@@ -27,12 +26,12 @@ permalink: /team/
   <li> {{ member.education5 }} </li>
   <li> {{ member.education6 }} </li>
   </ul>
-  
 </div>
 {% endfor %}
+</div>
 
 ## Staff
-<!--> Load from team_members.yml  <-->
+<!-- Load from team_members.yml -->
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -95,7 +94,7 @@ permalink: /team/
 {% endif %}
 
 ## Post-docs, grad students 
-<!--> Load from team_trainees.yml  <-->
+<!-- Load from team_trainees.yml -->
 {% assign number_printed = 0 %}
 {% for member in site.data.team_trainees %}
 
@@ -158,7 +157,7 @@ permalink: /team/
 {% endif %}
 
 ## Alumni
-<!--> Load from alumni_members.yml  <-->
+<!-- Load from alumni_members.yml  -->
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
 
