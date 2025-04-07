@@ -27,7 +27,4 @@ These considerations lead us to the main overarching interests of the lab to:
 2. characterize the molecular determinants that modulate seizurogenesis and the efficacy of existing ASMs
 3. Neurotherapeutic development. 
 
-
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
-
 ### ... and more.

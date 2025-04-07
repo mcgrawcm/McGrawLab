@@ -34,8 +34,8 @@
 
 - title: "Zebrafish models of candidate human epilepsy-associated genes provide evidence of hyperexcitability"
   image: logo_McGrawLab.png
-  description:
-  authors:
+  description: 
+  authors: LaCoursiere CM, Ullmann JFP, Koh HY, Turner L, Baker CM, Robens B, Shao W, Rotenberg A, <strong>McGraw CM</strong>, Poduri A
   link:
     url: https://www.cell.com/iscience/fulltext/S2589-0042(24)01397-X
     display: "iScience, Volume 27, Issue 7, 110172"
@@ -78,6 +78,7 @@
     url: https://www.science.org/doi/full/10.1126/science.1206593
     display: "Science. 2011 Jul 8;333(6039):186.  PMID: 21636743"
   highlight: 1
+  news1:   <a style="color:#FF0000" href= "https://www.sciencedaily.com/releases/2011/06/110602143204.htm">Covered in ScienceDaily</a>
 
 - title: "Automated quantification of periodic discharges in human electroencephalogram"
   image: logo_McGrawLab.png
