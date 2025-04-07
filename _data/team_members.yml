@@ -1,20 +1,20 @@
 - name: Marisha Dhakal
-  photo: Jiasen.png
+  photo: logo_McGrawLab.png
   info: Data Analyst Associate, started Dec 2024
   email: b
   number_educ: 2
-  education1: MA 
-  education2: BSc 
+  education1: MS Computer Science, Florida International University 2023
+  education2: BSc, Computer Engineering, Tribhuvan University 2020
 
 - name: Yimeng Zhao
-  photo: Jiasen.png
-  info: Research Tech 
+  photo: logo_McGrawLab.png
+  info: Research Tech, 2024
   email: b
   number_educ: 1
-  education1: BA UIC
-  
+  education1: BS, Molecular and Cellular Biology, University of Illinois at Urbana-Champaign (UIUC) 2022
+
 - name: "This could be you !"
-  photo: rock.jpg
+  photo: logo_McGrawLab.png
   info: See [openings]({{ site.baseurl }}{% link _pages/recruitment.md %}) for more info
   email: b
   number_educ: 0

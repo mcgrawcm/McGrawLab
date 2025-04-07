@@ -1,0 +1,15 @@
+- name: Ricky Avalos
+  photo: logo_McGrawLab.png
+  info: NUIN Rotation Student, 4/2025
+  email: b
+  number_educ: 1
+  education1: BA Neuroscience, Notre Dame, 2024
+  
+- name: "This could be you !"
+  photo: logo_McGrawLab.png
+  info: See [openings]({{ site.baseurl }}{% link _pages/recruitment.md %}) for more info
+  email: b
+  number_educ: 0
+  education1:
+  education2:
+  education3:
