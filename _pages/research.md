@@ -24,7 +24,7 @@ However, the effectiveness of these compounds may depend on a range of underlyin
 1. genetic factors, ranging from common polygenic risk alleles to rare, high-impact variants,and/or
 2. acquired pathological changes at the cellular or molecular level. 
 
-In addition, there may be many viable anti-seizure targets the field has not yet discovered, as it is unlikely that the phenotypic screening performed to-date has exhaustively covered the target space. In contrast to other fields of medicine where sustained efforts to identify novel therapeutic targets have yielded significant advances (such as oncology), the pursuit of new molecular targets in seizure disorders has lagged behind. This relative lack of emphasis may stem, in part, from the perception that the most relevant targets—such as sodium channels, GABA<sub>A</sub> receptors, and glutamate receptors—have already been identified and explored. 
+In addition, there may be many viable anti-seizure targets the field has not yet discovered, as it is unlikely that the phenotypic screening performed to-date has exhaustively covered the target space -- and phenotypic screening has still only rarely been performed in _refractory_ models themselves. In contrast to other fields of medicine where sustained efforts to identify novel therapeutic targets have yielded significant advances (such as oncology), the pursuit of new molecular targets in seizure disorders has lagged behind. This relative lack of emphasis may stem, in part, from the perception that the most relevant targets—such as sodium channels, GABA<sub>A</sub> receptors, and glutamate receptors—have already been identified and explored. 
 
 These considerations lead us to the main overarching interests of the lab to: 
 1. develop novel models of refractory seizure disorders for mechanistic insights and for screening 
@@ -34,17 +34,41 @@ These considerations lead us to the main overarching interests of the lab to:
 ## Novel models of refractory seizure disorders
 Animal models provide a powerful tool for dissecting the unique pathophysiology of refractory seizure disorders, and for testing therapies. The McGraw Lab is interested in developing models of 1) refractory chemical seizures, and 2) refractory genetic seizures. 
 
-Through the first approach, the McGraw Lab has developed an organophosphate (OP) model of status epilepticus (SE) in zebrafish (_in preparation_) supported by the NINDS / NIH CounterACT initiative. This model displays hallmark signs of SE including body contracture and increased brain calcium fluorescence, which can be assayed non-invasively in 96-well format using methods we previously developed for combined movement and calcium fluorescence profiling (Ref). The pharmacology appears similar to OP-related seizures in rodents and humans, including strong reduction by NMDAR inhibition (MK801) and resistance to benzodiazepines (DZP). Our current plans are to perform compound screening to identify seizure-specific counter-measures, and to leverage screening data for machine-learning models for additional in silico methods. Additional future directions include: understanding the cellular/molecular mechanisms of OP-related seizures, including the role of inflammation and BBB breakdown; long-term sequelae on epileptogenesis; and the effects of specific targeted interventions on OP-related seizures in our model and their translation to mouse.  
+Through the first approach, the McGraw Lab has developed an organophosphate (OP) model of status epilepticus (SE) in zebrafish (_in preparation_) supported by the NINDS / NIH CounterACT initiative. This model displays hallmark signs of SE including body contracture and increased brain calcium fluorescence, which can be assayed non-invasively in 96-well format using methods we previously developed for combined movement and calcium fluorescence profiling (Ref). The pharmacology appears similar to OP-related seizures in rodents and humans, including strong reduction by NMDAR inhibition (MK801) and resistance to benzodiazepines (DZP). 
+![PXN phenotypes]({{ site.url }}{{ site.baseurl }}/images/asset_02_PXN.png){: style="width: 70%; float: center; margin: 0px"}
 
 In the second approach, the McGraw Lab has developed multiple zebrafish models of neurodevelopmental disorders that feature epilepsy (genetic and pharmacologic inhibition of GAT1; CDKL5), however our results have been more modest. 
 
-In CDKL5, these fish do not display spontaneous seizures or tectal epileptiform discharges (_in preparation_), but brain activity mapping demonstrates tectal hyperexcitability. Preliminary evidence suggests this may be due to elevated number of excitatory synapses in optic tectum. In addition, cdkl5 knock-out fish demonstrate abnormal optokinetic responses (OKR) -- a visually evoked response, also impaired in cdkl5 mouse and individuals with CDKL5 Deficiency Disorder. We plan to use our model to further understand the molecular function of cdkl5 in hyperexcitability and visual dysfunction, and to assess the response to cDNA rescue with human CDKL5 variants. This work has been supported by the LouLou Foundation. 
+In CDKL5, these fish do not display spontaneous seizures or tectal epileptiform discharges (_in preparation_), but brain activity mapping demonstrates tectal hyperexcitability. Preliminary evidence suggests this may be due to elevated number of excitatory synapses in optic tectum. 
+![Cdkl5 BAM]({{ site.url }}{{ site.baseurl }}/images/asset_04_cdkl5BAM.png){: style="width: 70%; float: center; margin: 0px"}
+In addition, cdkl5 knock-out fish demonstrate abnormal optokinetic responses (OKR) -- a visually evoked response, also impaired in cdkl5 mouse and individuals with CDKL5 Deficiency Disorder.
+![Cdkl5 OKR]({{ site.url }}{{ site.baseurl }}/images/asset_05_cdkl5OKR.png){: style="width: 70%; float: center; margin: 0px"}
+We plan to use our model to further understand the molecular function of cdkl5 in hyperexcitability and visual dysfunction, and to assess the response to cDNA rescue with human CDKL5 variants. This work has been supported by the LouLou Foundation. 
 
-## Molecular determinants of seizure disorder severity
+## Molecular determinants of seizure disorders, and seizure severity
 
+Work with ILAE, Epi25, NORSE 
+
+Re: seizure severity and pharmacoresistance, current work related to PRS in Adult Epilepsy patients
+
+Developing assays 
+    hGAT1  -- variants (_in preparation_)
+    ![hGAT1]({{ site.url }}{{ site.baseurl }}/images/asset_01_GAT1 assay.png){: style="width: 70%; float: center; margin: 0px"}
+
+
+    cdkl5 zfish 
 
 ## Neurotherapeutics 
 
+Target discovery with PXN 
+    developed FDSS method for PTZ, but not a model of refractory seizures 
+    will develop a new approach for PXN based on our preliminary findings 
 
+Our current plans are to perform compound screening to identify seizure-specific counter-measures, and to leverage screening data for machine-learning models for additional in silico methods. Additional future directions include: understanding the cellular/molecular mechanisms of OP-related seizures, including the role of inflammation and BBB breakdown; long-term sequelae on epileptogenesis; and the effects of specific targeted interventions on OP-related seizures in our model and their translation to mouse.  
+![PXN plans]({{ site.url }}{{ site.baseurl }}/images/asset_03_PXNplans.png){: style="width: 70%; float: center; margin: 0px"}
+
+hGAT1 screening 
+
+Cdkl5 -- can use zfish for drug testing; in a Cdkl5 mouse model, we are testing a genetic therapy called 'prime editing', supported by the Loulou Foundation. 
 
 ### ... and more.
