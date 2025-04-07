@@ -20,7 +20,7 @@
   authors: McGraw CM, Samaco RC, and Zoghbi HY
   link:
     url: https://www.science.org/doi/full/10.1126/science.1206593
-    display: Science. 2011 Jul 8;333(6039):186.  PMID: 21636743
+    display: "Science. 2011 Jul 8;333(6039):186.  PMID: 21636743"
   highlight: 1
 
 - title: "Counter-balancing X-linked Mecp2hypofunction by hyperfunction ameliorates disease features in a model of Rett syndrome: implications for genetic therapies"
@@ -28,6 +28,29 @@
   description: using genetic techniques, we find that “counter-balancing” Mecp2-null cells in female Mecp2null/+ mice by a complementary population of cells harboring an X-linked transgene associated with 3X normal levels of MECP2 leads to normalization of multiple whole animal phenotypic outcomes without noticeable toxicity.  authors: McGraw CM, Soriano S, Shuang H, Connolly DR, Chahrour A, Wu Z, Liang, AJ, Sun Y, Tang J, Samaco RC. 
   link:
     url: https://doi.org/10.1101/2024.01.18.576265
-    display: bioRxiv. 2024 Jan 20;2024. (in submission, Nat Communications 2025)
+    display: "bioRxiv. 2024 Jan 20;2024. (in submission, Nat Communications 2025)"
   highlight: 1
 
+- title: "Automated quantification of periodic discharges in human electroencephalogram"
+  image: 
+  description: 
+  link:
+    url: 
+    display: 
+  highlight: 1
+
+- title: 
+  image: 
+  description: 
+  link:
+    url: 
+    display: 
+  highlight: 1
+
+- title: 
+  image: 
+  description: 
+  link:
+    url: 
+    display: 
+  highlight: 1
