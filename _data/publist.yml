@@ -17,16 +17,16 @@
 - title: "Counter-balancing X-linked Mecp2hypofunction by hyperfunction ameliorates disease features in a model of Rett syndrome: implications for genetic therapies"
   image: pub_NT_biorxiv2024.png
   description: Using genetic techniques, we find that “counter-balancing” Mecp2-null cells in female Mecp2null/+ mice by a complementary population of cells harboring an X-linked transgene associated with 3X normal levels of MECP2 leads to normalization of multiple whole animal phenotypic outcomes without noticeable toxicity.  
-  authors: McGraw CM, Soriano S, Shuang H, Connolly DR, Chahrour A, Wu Z, Liang, AJ, Sun Y, Tang J, Samaco RC. 
+  authors: <strong>McGraw CM</strong>, Soriano S, Shuang H, Connolly DR, Chahrour A, Wu Z, Liang, AJ, Sun Y, Tang J, Samaco RC. 
   link:
     url: https://doi.org/10.1101/2024.01.18.576265
     display: "bioRxiv. 2024 Jan 20;2024. (in submission, Nat Communications 2025)"
   highlight: 1
 
 - title: "Machine learning enables high-throughput, low-replicate screening for novel anti-seizure targets and compounds using combined movement and calcium fluorescence in larval zebrafish"
-  image: pub_FDSS_2024.png
+  image: pub_FDSS_2024.jpg
   description: We developed a method to track movement and calcium fluorescence from unrestrained larval zebrafish and used machine-learning to classify seizure-like activity.
-  authors: CM McGraw, A Poduri.
+  authors: <strong>CM McGraw</strong>, A Poduri
   link:
     url: https://doi.org/10.1016/j.ejphar.2025.177327
     display: "European Journal of Pharmacology Volume 991, 15 March 2025, 177327"
@@ -45,17 +45,17 @@
 - title: "Mosaic and non-mosaic protocadherin 19 mutation leads to neuronal hyperexcitability in zebrafish"
   image: logo_McGrawLab.png
   description:
-  authors: Robens BK, Yang X, McGraw CM, Turner LH, Robens C, Thyme S, Rotenberg A, Poduri A
+  authors: Robens BK, Yang X, <strong>McGraw CM</strong>, Turner LH, Robens C, Thyme S, Rotenberg A, Poduri A
   link:
-    url: https://www.cell.com/iscience/fulltext/S2589-0042(24)01397-X
-    display: iScience, Volume 27, Issue 7, 110172
+    url: 
+    display: 
   highlight: 1
-  news1:   <a style="color:#FF0000" href="https://journals.sagepub.com/doi/10.1177/15357597241301510">Featured as 'Research Highlight' in Epilepsy Currents</a>
+  news1:   <a style="color:#FF0000" href="https://journals.sagepub.com/doi/10.1177/15357597241301510"> Cover article </a>
 
 - title: "Adult neural function requires MeCP2"
   image: pub_AKO_2012.png
   description: We used conditional Cre/LoxP to knock-out the neurodevelopmental gene, MeCP2, in adult animals, and demonstrated that AKO animals develop all of the symptoms of germline KO animals, suggesting that mature nervous system function depends on Mecp2 function.
-  authors: "**McGraw CM**, Samaco RC, and Zoghbi HY"
+  authors: <strong>McGraw CM</strong>, Samaco RC, and Zoghbi HY
   link:
     url: https://www.science.org/doi/full/10.1126/science.1206593
     display: "Science. 2011 Jul 8;333(6039):186.  PMID: 21636743"
@@ -73,7 +73,7 @@
 - title: "Enhanced proconvulsant sensitivity, not spontaneous rapid swimming activity, is a robust correlate of scn1lab loss-of-function in stable mutant and F0 crispant hypopigmented zebrafish expressing GCaMP6s"
   image: logo_McGrawLab.png
   description: We find that genetic background or other factors seem to suppress the rapid swimming phenotype of scn1lab-s552 fish, and yet these stable KO as well as another line of acute KO scn1lab crispants still show enhanced sensitivity to proconvulsant. These findings may suggest 
-  authors: CM McGraw, CM Baker, A Poduri
+  authors: <strong>CM McGraw</strong>, CM Baker, A Poduri
   link:
     url: 
     display: 
