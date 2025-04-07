@@ -14,7 +14,7 @@
 #  news1:   <a style="color:#FF0000" href="https://www.nature.com/articles/s41567-021-01468-w">Featured as 'Research Highlight' in Nature Physics by David Abergel</a>
 #  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
 
-- title: "Counter-balancing X-linked Mecp2hypofunction by hyperfunction ameliorates disease features in a model of Rett syndrome: implications for genetic therapies"
+- title: "Counter-balancing X-linked Mecp2 hypofunction by hyperfunction ameliorates disease features in a model of Rett syndrome: implications for genetic therapies"
   image: pub_NT_biorxiv2024.png
   description: Using genetic techniques, we find that “counter-balancing” Mecp2-null cells in female Mecp2null/+ mice by a complementary population of cells harboring an X-linked transgene associated with 3X normal levels of MECP2 leads to normalization of multiple whole animal phenotypic outcomes without noticeable toxicity.  
   authors: <strong>McGraw CM</strong>, Soriano S, Shuang H, Connolly DR, Chahrour A, Wu Z, Liang, AJ, Sun Y, Tang J, Samaco RC. 
@@ -48,9 +48,27 @@
   authors: Robens BK, Yang X, <strong>McGraw CM</strong>, Turner LH, Robens C, Thyme S, Rotenberg A, Poduri A
   link:
     url: 
-    display: 
+    display: "Neurobiol Dis. 2022 Jul;169:105738"
   highlight: 1
   news1:   <a style="color:#FF0000" href="https://journals.sagepub.com/doi/10.1177/15357597241301510"> Cover article </a>
+
+- title: "Genome-wide identification and phenotypic characterization of seizure-associated copy number variations in 741,075 individuals"
+  image: logo_McGrawLab.png
+  description: 
+  authors: Montanucci et al. Epi 25 Collaborative. <strong>CM McGraw</strong>, as part of Epi25 Collaborative
+  link:
+    url: 
+    display: "Nat Commun . 2023 Jul 20;14(1):4392. doi: 10.1038/s41467-023-39539-6."
+  highlight: 1
+
+- title: "GWAS meta-analysis of over 29,000 people with epilepsy identifies 26 risk loci and subtype-specific genetic architecture"
+  image: logo_McGrawLab.png
+  description: 
+  authors: ILAE <strong>McGraw CM</strong>, as part of ILAE Consortium on Complex Epilepsy
+  link:
+    url: 
+    display: "Nat Genet. 2023 Sep;55(9):1471-1482. doi: 10.1038/s41588-023-01485-w.Epub 2023 Aug 31. "
+  highlight: 1
 
 - title: "Adult neural function requires MeCP2"
   image: pub_AKO_2012.png
@@ -63,11 +81,11 @@
 
 - title: "Automated quantification of periodic discharges in human electroencephalogram"
   image: logo_McGrawLab.png
-  description:
-  authors:
+  description: 
+  authors: <strong>CM McGraw</strong>, S Rao, S Manjunath, J Jing, MB Westover
   link:
     url: 
-    display: 
+    display: "Biomed. Phys. Eng. Express 10 065003DOI 10.1088/2057-1976/ad6c53"
   highlight: 1
 
 - title: "Enhanced proconvulsant sensitivity, not spontaneous rapid swimming activity, is a robust correlate of scn1lab loss-of-function in stable mutant and F0 crispant hypopigmented zebrafish expressing GCaMP6s"
@@ -77,4 +95,13 @@
   link:
     url: 
     display: 
+  highlight: 1
+
+- title: "A roadmap to cure CHD2-related disorders"
+  image: logo_McGrawLab.png
+  description: 
+  authors: Prince S, Bonkowski E, <strong>McGraw C</strong>, et al.
+  link:
+    url: 
+    display: "Therapeutic Advances in Rare Disease. 2024;5. doi:10.1177/26330040241283749"
   highlight: 1
