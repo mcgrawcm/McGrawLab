@@ -29,6 +29,7 @@ permalink: /team/
   </ul>
   
 </div>
+{% endfor %}
 
 ## Team
 {% assign number_printed = 0 %}
