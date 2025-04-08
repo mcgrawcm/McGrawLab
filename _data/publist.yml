@@ -58,7 +58,7 @@
   authors: Montanucci et al. Epi 25 Collaborative. <strong>CM McGraw</strong>, as part of Epi25 Collaborative
   link:
     url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10359300/
-    display: "Nat Commun . 2023 Jul 20;14(1):4392. doi: 10.1038/s41467-023-39539-6. (via Library of Medicine)
+    display: "Nat Commun . 2023 Jul 20;14(1):4392. doi: 10.1038/s41467-023-39539-6. (via Library of Medicine)"
   highlight: 1
 
 - title: "GWAS meta-analysis of over 29,000 people with epilepsy identifies 26 risk loci and subtype-specific genetic architecture"
@@ -94,8 +94,8 @@
   description: We find that genetic background or other factors seem to suppress the rapid swimming phenotype of scn1lab-s552 fish, and yet these stable KO as well as another line of acute KO scn1lab crispants still show enhanced sensitivity to proconvulsant. These findings may suggest 
   authors: <strong>CM McGraw</strong>, CM Baker, A Poduri
   link:
-    url: 
-    display: 
+    url: https://www.biorxiv.org/content/10.1101/2025.01.15.633275v1
+    display: "Biorxiv"
   highlight: 1
 
 - title: "A roadmap to cure CHD2-related disorders"
@@ -103,6 +103,6 @@
   description: We discuss the history of CHD2-related disorders and pathways towards their therapeutic management.
   authors: Prince S, Bonkowski E, <strong>McGraw C</strong>, et al.
   link:
-    url: 
-    display: "Therapeutic Advances in Rare Disease. 2024;5. doi:10.1177/26330040241283749"
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11465304/
+    display: "Therapeutic Advances in Rare Disease. 2024;5. doi:10.1177/26330040241283749 (via Library of Medicine)"
   highlight: 1
