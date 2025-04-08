@@ -32,7 +32,7 @@ These considerations lead us to the main overarching interests of the lab to:
 3. develop and test novel neurotherapeutic approaches
 
 ## Novel models of refractory seizure disorders
-Animal models provide a powerful tool for dissecting the unique pathophysiology of refractory seizure disorders, and for testing therapies. The McGraw Lab is interested in developing models of 1) refractory chemical seizures, and 2) refractory genetic seizures. 
+Animal models provide a powerful tool for dissecting the unique pathophysiology of refractory seizure disorders, and for testing therapies. In particular, the use of _zebrafish_ allows for rapid chemical and genetic screening over 100s of fish, massively increasing throughput over larger vertebrates, while being more biologically authentic than cell-based models. The McGraw Lab is interested in developing models of 1) refractory chemical seizures, and 2) refractory genetic seizures. 
 
 Through the _first approach_, the McGraw Lab has developed an organophosphate (OP) model of status epilepticus (SE) in zebrafish (_in preparation_) supported by the NINDS / NIH CounterACT initiative. This model displays hallmark signs of SE including body contracture and increased brain calcium fluorescence, which can be assayed non-invasively in 96-well format using methods we previously developed for [combined movement and calcium fluorescence profiling](https://doi.org/10.1016/j.ejphar.2025.177327). The pharmacology appears similar to OP-related seizures in rodents and humans, including strong reduction by NMDAR inhibition (MK801) and resistance to benzodiazepines (DZP). 
 
