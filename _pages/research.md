@@ -34,12 +34,14 @@ These considerations lead us to the main overarching interests of the lab to:
 ## Novel models of refractory seizure disorders
 Animal models provide a powerful tool for dissecting the unique pathophysiology of refractory seizure disorders, and for testing therapies. The McGraw Lab is interested in developing models of 1) refractory chemical seizures, and 2) refractory genetic seizures. 
 
-Through the first approach, the McGraw Lab has developed an organophosphate (OP) model of status epilepticus (SE) in zebrafish (_in preparation_) supported by the NINDS / NIH CounterACT initiative. This model displays hallmark signs of SE including body contracture and increased brain calcium fluorescence, which can be assayed non-invasively in 96-well format using methods we previously developed for combined movement and calcium fluorescence profiling (Ref). The pharmacology appears similar to OP-related seizures in rodents and humans, including strong reduction by NMDAR inhibition (MK801) and resistance to benzodiazepines (DZP). 
+Through the first approach, the McGraw Lab has developed an organophosphate (OP) model of status epilepticus (SE) in zebrafish (_in preparation_) supported by the NINDS / NIH CounterACT initiative. This model displays hallmark signs of SE including body contracture and increased brain calcium fluorescence, which can be assayed non-invasively in 96-well format using methods we previously developed for combined movement and calcium fluorescence profiling (Ref). The pharmacology appears similar to OP-related seizures in rodents and humans, including strong reduction by NMDAR inhibition (MK801) and resistance to benzodiazepines (DZP).
+
 ![PXN phenotypes]({{ site.url }}{{ site.baseurl }}/images/asset_02_PXN.png){: style="width: 70%; float: center; margin: 0px"}
 
 In the second approach, the McGraw Lab has developed multiple zebrafish models of neurodevelopmental disorders that feature epilepsy (genetic and pharmacologic inhibition of GAT1; CDKL5), however our results have been more modest. 
 
 In CDKL5, these fish do not display spontaneous seizures or tectal epileptiform discharges (_in preparation_), but brain activity mapping demonstrates tectal hyperexcitability. Preliminary evidence suggests this may be due to elevated number of excitatory synapses in optic tectum. 
+
 ![Cdkl5 BAM]({{ site.url }}{{ site.baseurl }}/images/asset_04_cdkl5BAM.png){: style="width: 70%; float: center; margin: 0px"}
 
 In addition, cdkl5 knock-out fish demonstrate abnormal optokinetic responses (OKR) -- a visually evoked response, also impaired in cdkl5 mouse and individuals with CDKL5 Deficiency Disorder.
@@ -50,7 +52,7 @@ We plan to use our model to further understand the molecular function of cdkl5 i
 
 ## Molecular determinants of seizure disorders, and seizure severity
 
-Dr. McGraw is a contributing member of the [ILAE]() [Consortium on Complex Epilepsy](), and the [Epi25 Collaborative]() -- two large international initiatives dedicated to the genetics of epilepsy (Ref1, Ref2). He is also a contributing member of the Yale [NORSE Biorepository]()
+Dr. McGraw is a contributing member of the [ILAE](https://www.ilae.org/) [Consortium on Complex Epilepsy](https://www.ilae.org/about-ilae/committees-task-forces-and-advisory-commissions/consortium-on-complex-epilepsies), and the [Epi25 Collaborative](https://epi-25.org/) -- two large international initiatives dedicated to the genetics of epilepsy. He is also a contributing member of the Yale [NORSE Biorepository](https://www.norseinstitute.org/research)
 
 The McGraw Lab is currently conducting a clinical study to evaluate whether polygenic risk scores improve our ability to predict seizure severity and/or pharmacoresistance in adults with acquired focal epilepsy. 
 
