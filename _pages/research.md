@@ -34,11 +34,13 @@ These considerations lead us to the main overarching interests of the lab to:
 ## Novel models of refractory seizure disorders
 Animal models provide a powerful tool for dissecting the unique pathophysiology of refractory seizure disorders, and for testing therapies. The McGraw Lab is interested in developing models of 1) refractory chemical seizures, and 2) refractory genetic seizures. 
 
-Through the first approach, the McGraw Lab has developed an organophosphate (OP) model of status epilepticus (SE) in zebrafish (_in preparation_) supported by the NINDS / NIH CounterACT initiative. This model displays hallmark signs of SE including body contracture and increased brain calcium fluorescence, which can be assayed non-invasively in 96-well format using methods we previously developed for [combined movement and calcium fluorescence profiling](https://doi.org/10.1016/j.ejphar.2025.177327). The pharmacology appears similar to OP-related seizures in rodents and humans, including strong reduction by NMDAR inhibition (MK801) and resistance to benzodiazepines (DZP).
+Through the _first approach_, the McGraw Lab has developed an organophosphate (OP) model of status epilepticus (SE) in zebrafish (_in preparation_) supported by the NINDS / NIH CounterACT initiative. This model displays hallmark signs of SE including body contracture and increased brain calcium fluorescence, which can be assayed non-invasively in 96-well format using methods we previously developed for [combined movement and calcium fluorescence profiling](https://doi.org/10.1016/j.ejphar.2025.177327). The pharmacology appears similar to OP-related seizures in rodents and humans, including strong reduction by NMDAR inhibition (MK801) and resistance to benzodiazepines (DZP). 
 
 ![PXN phenotypes]({{ site.url }}{{ site.baseurl }}/images/asset_02_PXN.png){: style="width: 70%; float: center; margin: 0px"}
 
-In the second approach, the McGraw Lab has developed multiple zebrafish models of neurodevelopmental disorders that feature epilepsy (genetic and pharmacologic inhibition of GAT1; CDKL5), however our results have been more modest. 
+Additional future directions include: understanding the cellular/molecular mechanisms of OP-related seizures, including the role of inflammation and BBB breakdown; long-term sequelae on epileptogenesis; and the effects of specific targeted interventions on OP-related seizures in our model and their translation to mouse.
+
+In the _second approach_, the McGraw Lab has developed multiple zebrafish models of neurodevelopmental disorders that feature epilepsy (genetic and pharmacologic inhibition of GAT1; CDKL5), however our results have been more modest. 
 
 In CDKL5, these fish do not display spontaneous seizures or tectal epileptiform discharges (_in preparation_), but brain activity mapping demonstrates tectal hyperexcitability. Preliminary evidence suggests this may be due to elevated number of excitatory synapses in optic tectum. 
 
