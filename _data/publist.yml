@@ -34,7 +34,7 @@
 
 - title: "Zebrafish models of candidate human epilepsy-associated genes provide evidence of hyperexcitability"
   image: logo_McGrawLab.png
-  description: 
+  description: We performed a prospective screen of candidate epilepsy genes using zebrafish and identified several genes associated with hyperexcitability (arfgef1, kcnd2, kcnv1, ubr5, and wnt8b).
   authors: LaCoursiere CM, Ullmann JFP, Koh HY, Turner L, Baker CM, Robens B, Shao W, Rotenberg A, <strong>McGraw CM</strong>, Poduri A
   link:
     url: https://www.cell.com/iscience/fulltext/S2589-0042(24)01397-X
@@ -43,30 +43,30 @@
   news1:   <a style="color:#FF0000" href="https://journals.sagepub.com/doi/10.1177/15357597241301510">Featured as 'Research Highlight' in Epilepsy Currents</a>
 
 - title: "Mosaic and non-mosaic protocadherin 19 mutation leads to neuronal hyperexcitability in zebrafish"
-  image: logo_McGrawLab.png
-  description:
+  image: pub_Neurobio_pcdh19.jpg
+  description: We show evidence of hyperexcitability in a zebrafish model of Pcdh19 clustering epilepsy.
   authors: Robens BK, Yang X, <strong>McGraw CM</strong>, Turner LH, Robens C, Thyme S, Rotenberg A, Poduri A
   link:
-    url: 
-    display: "Neurobiol Dis. 2022 Jul;169:105738"
+    url: https://www.sciencedirect.com/science/article/pii/S0969996122001309
+    display: "Neurobiol Dis. 2022 Jul;169:105738 (via ScienceDirect)"
   highlight: 1
   news1:   <a style="color:#FF0000" href="https://journals.sagepub.com/doi/10.1177/15357597241301510"> Cover article </a>
 
 - title: "Genome-wide identification and phenotypic characterization of seizure-associated copy number variations in 741,075 individuals"
   image: logo_McGrawLab.png
-  description: 
+  description: We contributed epilepsy patients to this large scale effort to understand molecular determinants of epilepsy, in this case related to copy number variants.
   authors: Montanucci et al. Epi 25 Collaborative. <strong>CM McGraw</strong>, as part of Epi25 Collaborative
   link:
-    url: 
-    display: "Nat Commun . 2023 Jul 20;14(1):4392. doi: 10.1038/s41467-023-39539-6."
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10359300/
+    display: "Nat Commun . 2023 Jul 20;14(1):4392. doi: 10.1038/s41467-023-39539-6. (via Library of Medicine)
   highlight: 1
 
 - title: "GWAS meta-analysis of over 29,000 people with epilepsy identifies 26 risk loci and subtype-specific genetic architecture"
   image: logo_McGrawLab.png
-  description: 
+  description: We contributed epilepsy patients to this large scale effort to understand the role of common genetic variants in epilepsy. 
   authors: ILAE <strong>McGraw CM</strong>, as part of ILAE Consortium on Complex Epilepsy
   link:
-    url: 
+    url: https://www.nature.com/articles/s41588-023-01485-w
     display: "Nat Genet. 2023 Sep;55(9):1471-1482. doi: 10.1038/s41588-023-01485-w.Epub 2023 Aug 31. "
   highlight: 1
 
@@ -82,7 +82,7 @@
 
 - title: "Automated quantification of periodic discharges in human electroencephalogram"
   image: logo_McGrawLab.png
-  description: 
+  description: We developed an algorithm to quantify features of periodic discharges (frequency, spatial extent, evolution) in the human EEG to facilitate our ability to assess their relationship to clinical outcomes in critically ill patients.
   authors: <strong>CM McGraw</strong>, S Rao, S Manjunath, J Jing, MB Westover
   link:
     url: 
@@ -100,7 +100,7 @@
 
 - title: "A roadmap to cure CHD2-related disorders"
   image: logo_McGrawLab.png
-  description: 
+  description: We discuss the history of CHD2-related disorders and pathways towards their therapeutic management.
   authors: Prince S, Bonkowski E, <strong>McGraw C</strong>, et al.
   link:
     url: 
