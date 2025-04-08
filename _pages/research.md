@@ -62,7 +62,7 @@ We have also developed assays to functionally validate human variants. One of th
 
 ![hGAT1]({{ site.url }}{{ site.baseurl }}/images/asset_01_GAT1 assay.png){: style="width: 70%; float: center; margin: 0px"}
 
-Another approach to functional validation is using zebrafish models using the human cDNA rescue paradigm. In this approach, the ability to rescue phenotypes observed in cdkl5 zebrafish using WT or mutant human CDKL5 mRNA provides a rapid means to connect genotype to phenotype, and set the stage for additional molecular investigations.
+Another approach to functional validation is using zebrafish models using the human mRNA rescue paradigm. In this approach, the ability to rescue phenotypes observed in _cdkl5_ zebrafish using WT or mutant human CDKL5 mRNA provides a rapid means to connect genotype to phenotype, and set the stage for additional molecular investigations.
 
 ## Neurotherapeutics 
 
