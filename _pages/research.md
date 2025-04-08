@@ -41,34 +41,35 @@ In the second approach, the McGraw Lab has developed multiple zebrafish models o
 
 In CDKL5, these fish do not display spontaneous seizures or tectal epileptiform discharges (_in preparation_), but brain activity mapping demonstrates tectal hyperexcitability. Preliminary evidence suggests this may be due to elevated number of excitatory synapses in optic tectum. 
 ![Cdkl5 BAM]({{ site.url }}{{ site.baseurl }}/images/asset_04_cdkl5BAM.png){: style="width: 70%; float: center; margin: 0px"}
+
 In addition, cdkl5 knock-out fish demonstrate abnormal optokinetic responses (OKR) -- a visually evoked response, also impaired in cdkl5 mouse and individuals with CDKL5 Deficiency Disorder.
+
 ![Cdkl5 OKR]({{ site.url }}{{ site.baseurl }}/images/asset_05_cdkl5OKR.png){: style="width: 70%; float: center; margin: 0px"}
-We plan to use our model to further understand the molecular function of cdkl5 in hyperexcitability and visual dysfunction, and to assess the response to cDNA rescue with human CDKL5 variants. This work has been supported by the LouLou Foundation. 
+
+We plan to use our model to further understand the molecular function of cdkl5 in hyperexcitability and visual dysfunction, and to assess the response to mRNA rescue with human CDKL5 variants. This work has been supported by the LouLou Foundation. 
 
 ## Molecular determinants of seizure disorders, and seizure severity
 
-Work with ILAE, Epi25, NORSE 
+Dr. McGraw is a contributing member of the [ILAE]() [Consortium on Complex Epilepsy](), and the [Epi25 Collaborative]() -- two large international initiatives dedicated to the genetics of epilepsy (Ref1, Ref2). He is also a contributing member of the Yale [NORSE Biorepository]()
 
-Re: seizure severity and pharmacoresistance, current work related to PRS in Adult Epilepsy patients
+The McGraw Lab is currently conducting a clinical study to evaluate whether polygenic risk scores improve our ability to predict seizure severity and/or pharmacoresistance in adults with acquired focal epilepsy. 
 
-Developing assays 
-    hGAT1  -- variants (_in preparation_)
-    ![hGAT1]({{ site.url }}{{ site.baseurl }}/images/asset_01_GAT1 assay.png){: style="width: 70%; float: center; margin: 0px"}
+We have also developed assays to functionally validate human variants. One of these is a cell-based fluorescence assay for human GAT1 function (_in preparation_), which we have shown accurately predicts pathogenic variants and resolves variants of uncertain significance. 
 
+![hGAT1]({{ site.url }}{{ site.baseurl }}/images/asset_01_GAT1 assay.png){: style="width: 70%; float: center; margin: 0px"}
 
-    cdkl5 zfish 
+Another approach to functional validation is using zebrafish models using the human cDNA rescue paradigm. In this approach, the ability to rescue phenotypes observed in cdkl5 zebrafish using WT or mutant human CDKL5 mRNA provides a rapid means to connect genotype to phenotype, and set the stage for additional molecular investigations.
 
 ## Neurotherapeutics 
 
-Target discovery with PXN 
-    developed FDSS method for PTZ, but not a model of refractory seizures 
-    will develop a new approach for PXN based on our preliminary findings 
+We hope that our research has human translational impact -- the strongest indicator of which is whether new therapies identified and/or tested in our preclinical models reach human trials. 
 
-Our current plans are to perform compound screening to identify seizure-specific counter-measures, and to leverage screening data for machine-learning models for additional in silico methods. Additional future directions include: understanding the cellular/molecular mechanisms of OP-related seizures, including the role of inflammation and BBB breakdown; long-term sequelae on epileptogenesis; and the effects of specific targeted interventions on OP-related seizures in our model and their translation to mouse.  
+We are still at an early stage, but we plan to perform target discovery and compound discovery using our PXN model of refractory status epilepticus to identify seizure-specific counter-measures. We also hope to leverage screening data for machine-learning models for additional in silico methods. 
+
 ![PXN plans]({{ site.url }}{{ site.baseurl }}/images/asset_03_PXNplans.png){: style="width: 70%; float: center; margin: 0px"}
 
-hGAT1 screening 
+Using our non-radioactive hGAT1 assays, we also hope to partner with drug discovery programs to perform compound screening for positive allosteric modulators (PAMs) which may have therapeutic applications for developmental epileptic encephalopathy (DEE) and other neuropsychiatric conditions. 
 
-Cdkl5 -- can use zfish for drug testing; in a Cdkl5 mouse model, we are testing a genetic therapy called 'prime editing', supported by the Loulou Foundation. 
+Lastly, regarding CDKL5, we hope to deploy a compound screen to improve vision-based phenotypes in our cdkl5 zebrafish. In addition, we are testing the efficacy of genetic 'prime editing' in a Cdkl5 mouse model, supported by the Loulou Foundation. 
 
 ### ... and more.
