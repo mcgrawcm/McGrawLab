@@ -72,7 +72,7 @@ Our main areas of research are:
 </div>
 
 ## Technologies and methods.
-The McGraw lab has both wet and dry components but is primarily a wet lab. We use behavioral testing, electrophysiology, calcium fluorescence (high-throughput; inter-regional whole brain; single neuron and ensemble dynamics), genetic engineering (CRISPR/Cas9; knock-ins, knock-outs), and computational  tools (MATLAB/R/Python) when appropriate. 
+The McGraw lab has both wet and dry components but is primarily a wet lab. We use animals (zebrafish, mouse) and cell-based models; behavioral testing, electrophysiology, calcium fluorescence, time-lapse confocal, automated confocal microscopy, genetic engineering (CRISPR/Cas9; knock-ins, knock-outs), and computational  tools (MATLAB/R/Python) when appropriate. 
 
 In the near future, we hope to incorporate additional tools including: optogenetics, viral labeling, proteomics, scRNA sequencing, high-throughput morphological measurements, as well as fast volumetric imaging of whole-brain calcium fluorescence in zebrafish. 
 
