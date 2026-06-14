@@ -31,5 +31,5 @@ Dr. McGraw is currently a member of NUIN, CGM, and is amenable to joining other 
 ## Research tech/lab manager
 The McGraw Lab is recruiting for an experienced lab manager, ideally with 2+ years of animal research (mouse, EEG), and lab management experience. Please see the NUJobs posting to apply and send me an [email](mailto:christopher.mcgraw@northwestern.edu).
 
-## Undergraduates, medical students
-We have openings for talented and motivated undergraduates and medical students! Ideal applicants will have a demonstrated interest in epilepsy, and can commit to at least 2 semesters. Please send me an [email](mailto:christopher.mcgraw@northwestern.edu) to apply. 
+## Medical students
+We have openings for talented and motivated medical students! Ideal applicants will have a demonstrated interest in epilepsy, and can commit to at least 2 semesters. Please send me an [email](mailto:christopher.mcgraw@northwestern.edu) to apply. 
